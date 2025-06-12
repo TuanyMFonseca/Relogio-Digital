@@ -27,8 +27,11 @@ Este é um projeto simples de **relógio digital estilizado com HTML, CSS e Java
 ---
 
 ## 📸 Preview
--Escuro <img width="904" alt="image" src="https://github.com/user-attachments/assets/44fa2543-52c2-4b2c-ba68-9f7ed9e7148b" />
--Claro <img width="903" alt="image" src="https://github.com/user-attachments/assets/14d16f14-bcea-4456-9342-ee0d0ca993af" />
+-Escuro 
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/44fa2543-52c2-4b2c-ba68-9f7ed9e7148b" />
+
+-Claro
+<img width="903" alt="image" src="https://github.com/user-attachments/assets/14d16f14-bcea-4456-9342-ee0d0ca993af" />
 
 
 
